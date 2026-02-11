@@ -17,10 +17,10 @@
     },
 
     {
-      "name": "Level 2 — Aswina's Level",
-      "gravity": 0.85,
-      "jumpV": -13.0,
-      "theme": { "bg": "#AEA1F0", "platform": "#000000", "blob": "#FFFFFF" },
+      "name": "Level 2 — Aswina Sivas's Level",
+      "gravity": 0.95,
+      "jumpV": -12.0,
+      "theme": { "bg": "#B28AD1", "platform": "#000000", "blob": "#FFFFFF" },
       "start": { "x": 80, "y": 220, "r": 26 },
       "platforms": [
         { "x": 0, "y": 324, "w": 640, "h": 36 },
