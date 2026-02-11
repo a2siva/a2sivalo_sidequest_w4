@@ -1,6 +1,6 @@
 ## Project Title
 
-GBDA302 Week 4 Example 5: Blob Platformer (JSON + Classes)
+GBDA302 Side Quest Week 4 – JSON Platform Levels
 
 ---
 
@@ -8,24 +8,30 @@ GBDA302 Week 4 Example 5: Blob Platformer (JSON + Classes)
 
 Karen Cochrane and David Han
 
+Editor: Aswina Sivaloganathan
+WatID: (a2sivalo)
+Student Number: (21071968)
+
 ---
 
 ## Description
 
-This matches the structure of the original blob sketch from Week 2 but moves
-details into classes.
+A second level was added to explore how different layouts and physics settings affect player movement and difficulty.
 
 ---
 
-## Learning Goals
+## Setup and Interaction Instructions
 
-Learning Goals:
+How to run:
 
-- - load JSON in preload()
-- create WorldLevel from JSON
-- create BlobPlayer
-- update + draw each frame
-- handle input events (jump, optional next level)
+- Open the GitHub Pages link provided in the submission.
+- The sketch runs automatically in the browser.
+
+Controls:
+
+- Move: A / D or ← / →
+- Jump: Space / W / ↑
+- Next Level: N
 
 ---
 
@@ -35,8 +41,17 @@ N/A
 
 ---
 
-## GenAI
+## Iteration Notes
 
-The code was written by Dr. Karen Cochrane and David Han but they used GenAI to write the comments.
+Post-Playtest (Changes Made)
+
+- Added a second level by changing the JSON data.
+- Adjusted gravity and jump numbers in the second level to create a harder level.
+- Modified theme to indicate level progression/change.
+
+Post-Showcase (Planned Improvements)
+
+- Add visual indicators such as text to help guide players.
+- Introduce more elements such as obstacles coming towards player and knocking them off.
 
 ---
